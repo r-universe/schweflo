@@ -1,5 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "NLPclient"]
+	path = NLPclient
+	url = https://github.com/cran/NLPclient
+[submodule "ROI.models.globalOptTests"]
+	path = ROI.models.globalOptTests
+	url = https://github.com/cran/ROI.models.globalOptTests
+[submodule "ROI.models.netlib"]
+	path = ROI.models.netlib
+	url = https://github.com/cran/ROI.models.netlib
+[submodule "ROI.plugin.highs"]
+	path = ROI.plugin.highs
+	url = https://github.com/cran/ROI.plugin.highs
+[submodule "highs"]
+	path = highs
+	url = https://github.com/cran/highs
+[submodule "lpSolveAPI"]
+	path = lpSolveAPI
+	url = https://github.com/cran/lpSolveAPI
+[submodule "pandocfilters"]
+	path = pandocfilters
+	url = https://github.com/cran/pandocfilters
+[submodule "pdfminer"]
+	path = pdfminer
+	url = https://github.com/cran/pdfminer
+[submodule "xmlrpc2"]
+	path = xmlrpc2
+	url = https://github.com/cran/xmlrpc2
